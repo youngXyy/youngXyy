@@ -1,4 +1,4 @@
-## Hi there, I'm youngXyy 👋
+## Hi there, I'm young 👋
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=E5484D&vCenter=true&width=650&height=36&lines=Backend+Engineer+%2B+AI+Builder;Less+magic.+More+engineering.;Stay+curious.+Keep+shipping." alt="Backend Engineer and AI Builder" />
